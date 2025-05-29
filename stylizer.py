@@ -467,6 +467,6 @@ if __name__ == "__main__":
     #app = BrushGUI(root, "input6.webp")  # change image path if needed
     #root.mainloop()
     #input_img = "input6.webp"
-    input_img = "untitled4.png"
+    input_img = "input2.webp"
     output_img = "output.png"
     stylize_image(input_img, output_img)
